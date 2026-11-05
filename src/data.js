@@ -11,7 +11,7 @@ export const profile = {
   phone: "+91 9074012135",
   phoneLink: "+919074012135",
   photo: "/profile.jpg",
-  cv: "/Jifana_CV_.pdf",
+  cv: "/Jifana_CV.pdf",
   linkedin: "", // paste your LinkedIn URL here
   github: "",   // paste your GitHub profile URL here
 };
