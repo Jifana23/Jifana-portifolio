@@ -55,7 +55,7 @@ export const projects = [
       "Helps reduce food waste by moving surplus food to customers instead of the bin, while giving restaurants a way to recover some of its cost.",
     technologies: [],
     github: "",
-    image: "",
+    image: "/deal-dish.png",
   },
   {
     title: "Arts Day Management System",
@@ -65,7 +65,7 @@ export const projects = [
       "Streamlines college event management by keeping schedules, participants and results in one place.",
     technologies: [],
     github: "",
-    image: "",
+    image: "/arts-day.png",
   },
 ];
 
